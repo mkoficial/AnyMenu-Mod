@@ -6,11 +6,11 @@
 		"mac": "2.2081",
 		"ios": "2.2081"
 	},
-	"id": "$MOD_ID",
-	"name": "$MOD_NAME",
-	"version": "$MOD_VERSION",
-	"developer": "$MOD_DEVELOPER",
-	"description": "$MOD_DESCRIPTION",
+	"id": "mikefox.killmenu",
+	"name": "Kill Menu",
+	"version": "0.1.0",
+	"developer": "MikeFoxGD",
+	"description": "Adds a hack menu for Geometry Dash (only mobile)",
 	"dependencies": {
 		"geode.node-ids": ">=v1.23.3"
 	}
